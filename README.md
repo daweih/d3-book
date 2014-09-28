@@ -1,3 +1,5 @@
+# Downloaded at Sun Sep 28 15:16:41 CST 2014 by DaWei Huang
+
 # d3-book
 =======
 
